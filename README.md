@@ -19,6 +19,9 @@
 <br>
 <p align="center">
 <img width="720px" src="https://raw.githubusercontent.com/binaryshrey/Awesome-Android-Open-Source-Projects/master/assets/AAOSP.png" alt="aaosp"></img>
+</p><br>
+
+<p> Awesome Android Open-Source Projects aims to be the starting point for those who are new to the world of Open-Source and want to contribute for the same. It also serves experienced contributors to participate and contribute in the mentioned list of projects.
 </p><br><br>
 
 ## Contents
