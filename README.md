@@ -22,7 +22,7 @@
 </p><br>
 
 <p> Awesome Android Open-Source Projects aims to be the starting point for those who are new to the world of Open-Source and want to contribute for the same. It also serves experienced contributors to participate and contribute in the mentioned list of projects.
-</p><br><br>
+</p><br>
 
 ## Contents
 :shamrock:  [**Categories**](#shamrock--categories)
@@ -69,6 +69,7 @@
     - Vineyard is an unofficial Vine client for Android TV.
     
     
+    
 ### :watch: Android Wear
 - [FORMWatchFace](https://github.com/romannurik/FORMWatchFace)
 
@@ -93,6 +94,7 @@
 - [WearSquare](https://github.com/davidvavra/WearSquare)
 
     - Unofficial Foursquare® Client for Android Wear.
+    
     
     
 ### :office: Architecture
@@ -127,6 +129,7 @@
 - [RestApiMVVM](https://github.com/mitchtabian/RestApiMVVM)
 
     - App that interacts with a Rest Api. Architecture is MVVM.
+    
     
     
 ### :iphone: Communication
@@ -183,6 +186,7 @@
     - The project in this repository contains the Wire for Android client project. 
     
     
+    
 ### :book: eBook Reader
 - [Bookdash-android-app](https://github.com/bookdash/bookdash-android-app)
 
@@ -199,6 +203,7 @@
 - [tachiyomi](https://github.com/inorichi/tachiyomi)
 
     - Free and open source manga reader for Android 
+    
     
  
 ### :movie_camera: Entertainment
@@ -247,6 +252,7 @@
     - TvFlix android app using Dagger Hilt, Coroutines, Jetpack(Room, ViewModel, Paging, LiveData) based on MVVM architecture purely written in Kotlin.
     
     
+    
 ### :moneybag: Finance    
 - [Bitcoin-wallet](https://github.com/bitcoin-wallet/bitcoin-wallet)
     
@@ -269,6 +275,7 @@
     - GnuCash Android is a companion expense-tracker application for GnuCash (desktop) designed for Android. It allows you to record transactions on-the-go and later import the data into GnuCash for the desktop.
     
     
+    
 ### :soccer: Games 
 - [2048-android](https://github.com/uberspot/2048-android)
     
@@ -281,6 +288,7 @@
 - [Santa-tracker-android](https://github.com/google/santa-tracker-android)
     
     - Google Santa Tracker app for Android is an educational and entertaining tradition that brings joy to millions of children (and children at heart) across the world over the December holiday period.
+    
     
 
 ### :weight_lifting: Health & Fitness
@@ -295,6 +303,7 @@
 - [Runnerup](https://github.com/jonasoreland/runnerup)
     
     - Track your sport activities with RunnerUp using the GPS in your Android phone.
+    
     
  
 ### :books: Libraries
@@ -391,6 +400,7 @@
     - ZXing ("Zebra Crossing") barcode scanning library for Java, Android 
     
     
+    
 ### :art: Misc    
 - [Android-conferences](https://github.com/jitinsharma/android-conferences)
     
@@ -465,6 +475,7 @@
     - An Android app which shows timeline of upcoming rocket launches and showcases architecture of real application. 
     
     
+    
 ### :newspaper: News    
 - [Cheddar](https://github.com/adrianblancode/Cheddar/)
     
@@ -497,6 +508,7 @@
 - [NYTimes-App](https://github.com/TheCodeMonks/NYTimes-App)
     
     - A Simple Demonstration of the New York Times App using Jsoup web crawler with MVVM Architecture
+    
     
     
 ### :rocket: Productivity     
@@ -549,6 +561,7 @@
     - Simple yet powerful rich note taking android application, with a lot of flexibilty of usage.
     
     
+    
 ### :hammer_and_wrench: Tools
 - [Red-moon](https://github.com/LibreShift/red-moon)
     
@@ -566,7 +579,8 @@
     
     - Wally is a fast and efficient wallpaper application for Android 
     
-    
+   
+   
 ### :earth_africa: Travel    
 - [Cyclestreets](https://github.com/cyclestreets/android)
     
@@ -579,6 +593,7 @@
 - [Travel-Mate](https://github.com/Swati4star/Travel-Mate)
     
     - Travel Mate is an android app for travellers. It provides features like choosing the correct destination, making bookings, and organizing the trip. It provides solutions for every problem a traveller might face during their journey. It provides a comprehensive list of information about a destination: current weather, best places to hangout, and city's current trends. 
+    
     
     
 ### :gear: Utilities
@@ -623,6 +638,7 @@
     - Share Wi-Fi passwords with QR codes or NFC tags 
     
     
+    
 ### :partly_sunny: Weather
 - [CoolWeather](https://github.com/akoufa/CoolWeather)
     
@@ -644,7 +660,7 @@
 <img width="720px" src="https://raw.githubusercontent.com/binaryshrey/Awesome-Android-Open-Source-Projects/master/assets/Hacktoberfest.png" alt="hacktoberfest"></img>
 </p>
 
-[Hacktoberfest](https://hacktoberfest.digitalocean.com/) is a month-long celebration of open source software organized by DigitalOcean in partnership with [GitHub](github.com/) and [Dev](https://dev.to/). Hacktoberfest is open to everyone in our global community. Whether you’re new to development, a student, long-time contributor, event host, or company of any size, you can help drive growth of open source and make positive contributions to an ever-growing community. All backgrounds and skills levels are encouraged to complete the challenge.
+[Hacktoberfest](https://hacktoberfest.digitalocean.com/) is a month-long celebration of open source software organized by DigitalOcean in partnership with [GitHub](https://github.com/) and [Dev](https://dev.to/). Hacktoberfest is open to everyone in our global community. Whether you’re new to development, a student, long-time contributor, event host, or company of any size, you can help drive growth of open source and make positive contributions to an ever-growing community. All backgrounds and skills levels are encouraged to complete the challenge.
 
 To qualify for the official Hacktoberfest swag options, you must [register](https://hacktoberfest.digitalocean.com/) and make four pull requests between October 1-31. Pull requests can be made to any public repository on GitHub, not just the ones with issues labeled Hacktoberfest. If a maintainer reports your pull request as spam or behavior not in line with [Hacktoberfest’s quality standards](https://hacktoberfest.digitalocean.com/details#quality), you will be ineligible to participate.
 
