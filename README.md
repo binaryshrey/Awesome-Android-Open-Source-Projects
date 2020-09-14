@@ -25,28 +25,28 @@
 </p><br><br>
 
 ## Contents
-:shamrock:  **Categories**
-- :tv: Android TV
-- :watch: Android Wear
-- :office: Architecture
-- :iphone: Communication
-- :book: eBook Reader
-- :movie_camera: Entertainment
-- :moneybag: Finance
-- :soccer: Games
-- :weight_lifting: Health & Fitness
-- :books: Libraries
-- :art: Misc
-- :newspaper: News
-- :rocket: Productivity
-- :hammer_and_wrench: Tools
-- :earth_africa: Travel
-- :gear: Utilities
-- :partly_sunny: Weather
+:shamrock:  [**Categories**](#shamrock--categories)
+- :tv: [Android TV](#tv-android-tv)
+- :watch: [Android Wear](#watch-android-wear)
+- :office: [Architecture](#office-architecture)
+- :iphone: [Communication](#iphone-communication)
+- :book: [eBook Reader](#book-ebook-reader)
+- :movie_camera: [Entertainment](#movie_camera-entertainment)
+- :moneybag: [Finance](#moneybag-finance)
+- :soccer: [Games](#soccer-games)
+- :weight_lifting: [Health & Fitness](#weight_lifting-health--fitness)
+- :books: [Libraries](#books-libraries)
+- :art: [Misc](#art-misc)
+- :newspaper: [News](#newspaper-news)
+- :rocket: [Productivity](#rocket-productivity)
+- :hammer_and_wrench: [Tools](#hammer_and_wrench-tools)
+- :earth_africa: [Travel](#earth_africa-travel)
+- :gear: [Utilities](#gear-utilities)
+- :partly_sunny: [Weather](#partly_sunny-weather)
 
-:dart:  **HacktoberFest**
+:dart:  [**HacktoberFest**](#dart--hacktoberfest)
 
-:memo:  **Contributing**
+:memo:  [**Contributing**](#memo--contributing)
 <br><br>
 
 ## :shamrock:  **Categories**
@@ -653,4 +653,4 @@ You can also check the [swag-list](https://hacktoberfestswaglist.com/) and other
 
 ## :memo:  **Contributing**
 
-See CONTRIBUTING.md
+See [CONTRIBUTING.md](https://github.com/binaryshrey/Awesome-Android-Open-Source-Projects/blob/master/CONTRIBUTING.md)
