@@ -242,3 +242,412 @@
 - [TvFlix](https://github.com/reactivedroid/TvFlix)
     
     - TvFlix android app using Dagger Hilt, Coroutines, Jetpack(Room, ViewModel, Paging, LiveData) based on MVVM architecture purely written in Kotlin.
+    
+    
+### :moneybag: Finance    
+- [Bitcoin-wallet](https://github.com/bitcoin-wallet/bitcoin-wallet)
+    
+    - Bitcoin Wallet app for your Android device. Standalone Bitcoin node, no centralized backend required. 
+    
+- [CoCoin](https://github.com/Nightonke/CoCoin)
+    
+    - CoCoin, Multi-view Accounting Application 
+    
+- [Expenses](https://github.com/nominalista/expenses)
+    
+    - App written in Kotlin for budget tracking. 
+    
+- [Finance-Manager](https://github.com/josharsh/Finance-Manager)
+    
+    - Finance Manager is an Android Application which contains Income Tax Calculator and EMI Calculator. 
+    
+- [Gnucash-android](https://github.com/codinguser/gnucash-android)
+    
+    - GnuCash Android is a companion expense-tracker application for GnuCash (desktop) designed for Android. It allows you to record transactions on-the-go and later import the data into GnuCash for the desktop.
+    
+    
+### :soccer: Games 
+- [2048-android](https://github.com/uberspot/2048-android)
+    
+    - This is the Android port of the 2048 game made by Gabriele Cirulli.
+    
+- [Pixel-dungeon](https://github.com/watabou/pixel-dungeon)
+    
+    - Traditional roguelike game with pixel-art graphics and simple interface 
+    
+- [Santa-tracker-android](https://github.com/google/santa-tracker-android)
+    
+    - Google Santa Tracker app for Android is an educational and entertaining tradition that brings joy to millions of children (and children at heart) across the world over the December holiday period.
+    
+
+### :weight_lifting: Health & Fitness
+- [Android-heart-rate-monitor](https://github.com/phishman3579/android-heart-rate-monitor)
+    
+    - Android based heart rate monitor which uses the camera and its flash to determine the users heart rate in beats per minute.
+    
+- [Pedometer](https://github.com/j4velin/Pedometer)
+    
+    - Lightweight pedometer app for Android using the hardware step sensor 
+    
+- [Runnerup](https://github.com/jonasoreland/runnerup)
+    
+    - Track your sport activities with RunnerUp using the GPS in your Android phone.
+    
+ 
+### :books: Libraries
+- [Accompanist](https://github.com/chrisbanes/accompanist)
+    
+    - Accompanist is a group of libraries that contains some utilities which I've found myself copying around projects which use Jetpack Compose. 
+    
+- [AndroidCharts](https://github.com/HackPlan/AndroidCharts)
+    
+    - An easy-to-use Android charts library with animation. 
+    
+- [Android-Debug-Database](https://github.com/amitshekhariitbhu/Android-Debug-Database)
+    
+    - A library for debugging android databases and shared preferences - Make Debugging Great Again 
+    
+- [Butterknife](https://github.com/JakeWharton/butterknife)
+    
+    - Bind Android views and callbacks to fields and methods.
+    
+- [Dagger](https://github.com/google/dagger)
+    
+    - A fast dependency injector for Android and Java. 
+    
+- [EventBus](https://github.com/greenrobot/EventBus)
+    
+    - Event bus for Android and Java that simplifies communication between Activities, Fragments, Threads, Services, etc. Less code, better quality. 
+   
+- [ExoPlayer](https://github.com/google/ExoPlayer)
+    
+    - ExoPlayer is an application level media player for Android. It provides an alternative to Android’s MediaPlayer API for playing audio and video both locally and over the Internet. ExoPlayer supports features not currently supported by Android’s MediaPlayer API, including DASH and SmoothStreaming adaptive playbacks. 
+    
+- [FilterLibrary](https://github.com/hgayan7/FilterLibrary)
+    
+    - Android filter library -This library has 16 filters which can be applied to image bitmaps. 
+    
+- [Glide](https://github.com/bumptech/glide)
+    
+    - An image loading and caching library for Android focused on smooth scrolling 
+    
+- [Gson](https://github.com/google/gson)
+    
+    -  A Java serialization/deserialization library to convert Java Objects into JSON and back 
+
+- [Junit5](https://github.com/junit-team/junit5/)
+    
+    - This repository is the home of the next generation of JUnit, JUnit 5.
+    
+- [Logger](https://github.com/orhanobut/logger)
+    
+    - Simple, pretty and powerful logger for android 
+    
+- [Lottie-android](https://github.com/airbnb/lottie-android)
+    
+    - Render After Effects animations natively on Android and iOS, Web, and React Native 
+    
+- [MotionToast](https://github.com/Spikeysanju/MotionToast)
+    
+    - A Beautiful Multipurpose Motion Toast Library in Android using Kotlin heart_eyes
+
+- [MPAndroidChart](https://github.com/PhilJay/MPAndroidChart)
+    
+    - A powerful Android chart view / graph view library, supporting line- bar- pie- radar- bubble- and candlestick charts as well as scaling, panning and animations. 
+    
+- [Okhttp](https://github.com/square/okhttp/)
+    
+    -  Square’s meticulous HTTP client for Java and Kotlin. 
+    
+- [Picasso](https://github.com/square/picasso)
+    
+    - A powerful image downloading and caching library for Android
+    
+- [PreviewSeekBar](https://github.com/rubensousa/PreviewSeekBar)
+    
+    - A SeekBar suited for showing a preview of something. As seen in Google Play Movies. 
+    
+- [Retrofit](https://github.com/square/retrofit)
+    
+    - A type-safe HTTP client for Android and the JVM 
+
+- [RxJava](https://github.com/ReactiveX/RxJava)
+    
+    - RxJava – Reactive Extensions for the JVM – a library for composing asynchronous and event-based programs using observable sequences for the Java VM. 
+ 
+- [Toasty](https://github.com/GrenderG/Toasty)
+    
+    - The usual Toast, but with steroids
+    
+- [ZoomRecylerLayout](https://github.com/Spikeysanju/ZoomRecylerLayout)
+    
+    - An beautiful Zoom Animation Library for RecyclerView Items in Android using Kotlin.
+    
+- [Zxing](https://github.com/zxing/zxing)
+    
+    - ZXing ("Zebra Crossing") barcode scanning library for Java, Android 
+    
+    
+### :art: Misc    
+- [Android-conferences](https://github.com/jitinsharma/android-conferences)
+    
+    - An app which displays conferences from http://androidstudygroup.github.io/conferences/
+    
+- [AndroidTensorFlowMachineLearning](https://github.com/MindorksOpenSource/AndroidTensorFlowMachineLearningExample)
+ 
+    - Android TensorFlow MachineLearning Example (Building TensorFlow for Android) 
+
+- [Android-wikipedia](https://github.com/wikimedia/apps-android-wikipedia)
+        
+    - The official Wikipedia app for Android! 
+    
+- [ComposeAcademy-Playground](https://github.com/hitherejoe/ComposeAcademy-Playground)
+    
+    - Playground project for the Jetpack Compose APIs 
+    
+- [Compose-pokedex](https://github.com/zsoltk/compose-pokedex)
+    
+    -  Pokedex on Jetpack Compose 
+    
+- [CoronavirusWorldStatus](https://github.com/HamdiBoumaiza/CoronavirusWorldStatus)
+    
+    - An app to stay up to date with the latest stats of the coronavirus , using Kotlin with MVVM ,Coroutines , Android Architecture Components and Dagger 
+    
+- [CrashReporter](https://github.com/MindorksOpenSource/CrashReporter)
+    
+    - CrashReporter is a handy tool to capture app crashes and save them in a file. 
+    
+- [Duckduckgo](https://github.com/duckduckgo/android)
+    
+    -  DuckDuckGo Android App 
+    
+- [Iosched](https://github.com/google/iosched)
+    
+    -  The Google I/O 2019 Android App 
+    
+- [Jetsurvey](https://github.com/android/compose-samples/tree/master/Jetsurvey)
+    
+    - Jetsurvey is a sample survey app, built with Jetpack Compose. The goal of the sample is to showcase text input, validation and state capabilities of Compose.
+    
+- [Kickmaterial](https://github.com/byoutline/kickmaterial)
+    
+    - Crowdfunding app concept for Android. Created to showcase new trends in Android development with strong focus on Material Design. 
+    
+- [LeafPic](https://github.com/HoraApps/LeafPic)
+     
+    - LeafPic is a fluid, material-designed alternative gallery, it also is ad-free and open source under GPLv3 license. It doesn't miss any of the main features of a stock gallery, and we also have plans to add more useful features. 
+    
+- [MoonShot](https://github.com/haroldadmin/MoonShot)
+    
+    - MoonShot is a SpaceX companion app to help you keep up with their launches. It uses the SpaceX API to fetch data.
+    
+- [Openfoodfacts-androidapp](https://github.com/openfoodfacts/openfoodfacts-androidapp)
+    
+    -  Native version of Open Food Facts on Android - Coders & Decoders welcome 
+    
+- [Plaid](https://github.com/nickbutcher/plaid)
+    
+    - An Android app which provides design news & inspiration as well as being an example of implementing material design. 
+    
+- [Pokedex](https://github.com/skydoves/Pokedex)
+    
+    - Android Pokedex using Dagger Hilt, Motion, Coroutines, Flow, Jetpack (Room, ViewModel, LiveData) based on MVVM architecture. 
+    
+- [Ridesharing-uber-lyft-app](https://github.com/MindorksOpenSource/ridesharing-uber-lyft-app)
+    
+    - Ride-Sharing Uber Lyft Android App - Learn to build a ride-sharing Android Taxi Clone App like Uber, Lyft - Open-Source Project By MindOrks 
+    
+- [Space-app](https://github.com/ValterKasper/space-app)
+    
+    - An Android app which shows timeline of upcoming rocket launches and showcases architecture of real application. 
+    
+    
+### :newspaper: News    
+- [Cheddar](https://github.com/adrianblancode/Cheddar/)
+    
+    - Hacker News reader for Android, written in Compose 
+    
+- [Flym](https://github.com/FredJul/Flym)
+    
+    - Flym News Reader is a light Android feed reader (RSS/Atom) 
+    
+- [JetNews](https://github.com/android/compose-samples/tree/master/JetNews)
+    
+    - Jetnews is a sample news reading app, built with Jetpack Compose. The goal of the sample is to showcase the current UI capabilities of Compose.
+    
+- [Materialistic](https://github.com/hidroh/materialistic)
+    
+    - A material-design Hacker News Android reader 
+    
+- [NewsFeed](https://github.com/KevinGitonga/NewsFeed)
+    
+    - A localized News reader Android app powered by newsapi.org 
+    
+- [NewsFeed-MVI-Dagger](https://github.com/HadySalhab/NewsFeed-MVI-Dagger)
+    
+    -  Android News Application built in kotlin: MVI+Dagger+NetworkBoundResource+ViewModel+Livedata. 
+    
+- [Newzz-Compose](https://github.com/Akashkamble/Newzz-Compose)
+    
+    - News App built with Jetpack Compose 
+    
+- [NYTimes-App](https://github.com/TheCodeMonks/NYTimes-App)
+    
+    - A Simple Demonstration of the New York Times App using Jsoup web crawler with MVVM Architecture
+    
+    
+### :rocket: Productivity     
+- [AmazeFileManager](https://github.com/TeamAmaze/AmazeFileManager)
+     
+    - Material design file manager for Android 
+    
+- [AnExplorer](https://github.com/1hakr/AnExplorer)
+    
+    - Another Android Explorer ( File Manager ) is an All-in-One Open source file manager. AnExplorer File Manager (File Explorer) is designed for all android devices including Phones, Phablets, Tablets, Chromecast, Wear OS, Android TV and Chromebooks. It's a fully designed with Material guidelines by Google. 
+    
+- [Clean-Notes](https://github.com/mitchtabian/Clean-Notes)
+    
+    - Clean Architecture by layer 
+    
+- [Compose-ShoppingList](https://github.com/QArtur99/Compose-ShoppingList)
+    
+    - Jetpack compose shopping list app 
+    
+- [Joplin](https://github.com/laurent22/joplin)
+    
+    - Joplin - an open source note taking and to-do application with synchronization capabilities for Windows, macOS, Linux, Android and iOS.
+    
+- [JetpackComposeCalculator](https://github.com/ahmedrizwan/JetpackComposeCalculator)
+    
+    -  A jetpack compose clone of Android 10 Calculator UI 
+    
+- [Minimal-Todo](https://github.com/avjinder/Minimal-Todo)
+    
+    - Material To-Do App 
+    
+- [MLManager](https://github.com/javiersantos/MLManager)
+    
+    - A modern, easy and customizable app manager for Android with Material Design 
+
+- [Notes-Central](https://github.com/vidit135g/Notes-Central)
+    
+    - Simple note taking app. 
+
+- [Omni-Notes](https://github.com/federicoiosue/Omni-Notes)
+    
+    - Open source note-taking application for Android 
+
+- [Owncloud - Android](https://github.com/owncloud/android)
+    
+    - The ownCloud Android App 
+
+- [Scarlet-Notes](https://github.com/BijoySingh/Scarlet-Notes)
+    
+    - Simple yet powerful rich note taking android application, with a lot of flexibilty of usage.
+    
+    
+### :hammer_and_wrench: Tools
+- [Red-moon](https://github.com/LibreShift/red-moon)
+    
+    - Android screen filter app for night time phone use. 
+
+- [SoundRecorder](https://github.com/dkim0419/SoundRecorder)
+    
+    - A simple sound recording app implementing Material Design 
+
+- [Turbo-editor](https://github.com/vmihalachi/turbo-editor)
+    
+    - Simple and powerful File Editor for Android. All is licensed under the GPLv3 license. 
+
+- [Wally](https://github.com/Musenkishi/wally)
+    
+    - Wally is a fast and efficient wallpaper application for Android 
+    
+    
+### :earth_africa: Travel    
+- [Cyclestreets](https://github.com/cyclestreets/android)
+    
+    - CycleStreets is a UK-wide cycle journey planner system, which lets you plan routes from A to B to C by bike. It is designed by cyclists, for cyclists, and caters to the needs of both confident and less confident cyclists.
+
+- [Transportr](https://github.com/grote/Transportr)
+    
+    - The public transport companion that respects your privacy and your freedom. Transportr is a non-profit app developed by people around the world to make using public transport as easy as possible wherever you are.
+
+- [Travel-Mate](https://github.com/Swati4star/Travel-Mate)
+    
+    - Travel Mate is an android app for travellers. It provides features like choosing the correct destination, making bookings, and organizing the trip. It provides solutions for every problem a traveller might face during their journey. It provides a comprehensive list of information about a destination: current weather, best places to hangout, and city's current trends. 
+    
+    
+### :gear: Utilities
+- [AnotherMonitor](https://github.com/AntonioRedondo/AnotherMonitor)
+    
+    - Monitors and records the CPU and memory usage of Android devices
+
+- [Authpass](https://github.com/authpass/authpass)
+    
+    - AuthPass - Password Manager based on Flutter for all platforms. Keepass 2.x (kdbx 3.x) compatible. 
+
+- [Earthview-android](https://github.com/PDDStudio/earthview-android)
+    
+    - A library to include 'EarthView with Google' into your application with ease. 
+
+- [Images-to-PDF](https://github.com/Swati4star/Images-to-PDF)
+    
+    - An app to convert images to PDF file! 
+    
+- [Memento-Calendar](https://github.com/alexstyl/Memento-Calendar)
+    
+    - Memento Calendar is a modern namedays app for Android. This repository contains the source code of Memento Calendar.
+
+- [Photo-affix](https://github.com/afollestad/photo-affix)
+    
+    - Stitch your photos together vertically or horizontally easily! 
+
+- [Simple-Calendar](https://github.com/SimpleMobileTools/Simple-Calendar)
+    
+    - A simple calendar with events, customizable widgets and no ads. 
+
+- [Talalarmo](https://github.com/trikita/talalarmo)
+    
+    - Minimal, simple and beautiful alarm clock thoughtfully designed by nap enthusiasts. 
+
+- [Varis-Android](https://github.com/dkhmelenko/Varis-Android)
+    
+    - Android client for Travis CI 
+
+- [WiFiKeyShare](https://github.com/bparmentier/WiFiKeyShare)
+    
+    - Share Wi-Fi passwords with QR codes or NFC tags 
+    
+    
+### :partly_sunny: Weather
+- [CoolWeather](https://github.com/akoufa/CoolWeather)
+    
+    -  Weather App that uses Android best practices. Android Jetpack, clean architecture. Written in Kotlin 
+
+- [Good-weather](https://github.com/qqq3/good-weather)
+    
+    - Open source weather app for Andorid 
+
+- [Weathercast](https://github.com/vidit135g/Weathercast)
+    
+    - Minimal weather app for Android 
+
+
+
+
+## :dart:  **HacktoberFest**
+<p align="center">
+<img width="720px" src="https://raw.githubusercontent.com/binaryshrey/aaosp/master/assets/Hacktoberfest.png" alt="hacktoberfest"></img>
+</p>
+
+[Hacktoberfest](https://hacktoberfest.digitalocean.com/) is a month-long celebration of open source software organized by DigitalOcean in partnership with [GitHub](github.com/) and [Dev](https://dev.to/). Hacktoberfest is open to everyone in our global community. Whether you’re new to development, a student, long-time contributor, event host, or company of any size, you can help drive growth of open source and make positive contributions to an ever-growing community. All backgrounds and skills levels are encouraged to complete the challenge.
+
+To qualify for the official Hacktoberfest swag options, you must [register](https://hacktoberfest.digitalocean.com/) and make four pull requests between October 1-31. Pull requests can be made to any public repository on GitHub, not just the ones with issues labeled Hacktoberfest. If a maintainer reports your pull request as spam or behavior not in line with [Hacktoberfest’s quality standards](https://hacktoberfest.digitalocean.com/details#quality), you will be ineligible to participate.
+
+You can also check the [swag-list](https://hacktoberfestswaglist.com/) and other companies giving away swags for HacktoberFest.
+
+
+## :memo:  **Contributing**
+
+See CONTRIBUTING.md
