@@ -638,7 +638,7 @@
 
 ## :dart:  **HacktoberFest**
 <p align="center">
-<img width="720px" src="https://raw.githubusercontent.com/binaryshrey/aaosp/master/assets/Hacktoberfest.png" alt="hacktoberfest"></img>
+<img width="720px" src="https://raw.githubusercontent.com/binaryshrey/Awesome-Android-Open-Source-Projects/master/assets/Hacktoberfest.png" alt="hacktoberfest"></img>
 </p>
 
 [Hacktoberfest](https://hacktoberfest.digitalocean.com/) is a month-long celebration of open source software organized by DigitalOcean in partnership with [GitHub](github.com/) and [Dev](https://dev.to/). Hacktoberfest is open to everyone in our global community. Whether you’re new to development, a student, long-time contributor, event host, or company of any size, you can help drive growth of open source and make positive contributions to an ever-growing community. All backgrounds and skills levels are encouraged to complete the challenge.
