@@ -98,6 +98,12 @@
     
     
 ### :office: Architecture
+
+- [Github Visualizer](https://github.com/DheerajKotwani/GithubVisualizer)
+
+    - Android Application to track any user activity on Github built using the Github Developers Api. The tools used for implementations - Github Developers Api, Kotlin, Coroutines, MVVM, Glide, Retrofit.
+
+
 - [Android-mvp-architecture](https://github.com/MindorksOpenSource/android-mvp-architecture)
 
     - This repository contains a detailed sample app that implements MVP architecture using Dagger2, GreenDao, RxJava, FastAndroidNetworking, PlaceHolderView and AndroidDebugDatabase.
