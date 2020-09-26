@@ -518,6 +518,10 @@
     
     
 ### :rocket: Productivity     
+- [Studify](https://github.com/cmcodes1/Studify)
+
+    - ☑️ Student Utility Mobile App. Features: Mark Attendance, View Time Table, Create Tasks.
+
 - [AmazeFileManager](https://github.com/TeamAmaze/AmazeFileManager)
      
     - Material design file manager for Android 
