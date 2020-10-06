@@ -209,7 +209,22 @@
 - [tachiyomi](https://github.com/inorichi/tachiyomi)
 
     - Free and open source manga reader for Android 
+
+- [Book Reader](https://gitlab.com/axet/android-book-reader/tree/HEAD)
+
+    - Book reader has a simple and minimal design and lightweight ebook reader.
     
+- [Cool Reader](https://github.com/buggins/coolreader)
+
+    - A cross platform open source e-book reader which is highly configurable in design.
+
+- [KO Reader](https://github.com/koreader/koreader)
+    
+    - KOReader is a document viewer primarily aimed at e-ink readers.
+
+- [Booky McBookface](https://github.com/quaap/BookyMcBookface)
+    
+    - An extremely unfancy, slightly broken, bare-bones epub reader. Also reads txt and html ebooks.
     
  
 ### :movie_camera: Entertainment
