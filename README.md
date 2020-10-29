@@ -511,6 +511,10 @@
     
     - News App built with Jetpack Compose 
     
+- [Nextcloud News Reader](https://github.com/nextcloud/news-android)
+
+    -  Android client for the Nextcloud news/feed reader app.
+    
 - [NYTimes-App](https://github.com/TheCodeMonks/NYTimes-App)
     
     - A Simple Demonstration of the New York Times App using Jsoup web crawler with MVVM Architecture
@@ -573,6 +577,10 @@
     
     
 ### :hammer_and_wrench: Tools
+- [Google Science Journal](https://github.com/google/science-journal)
+
+    - Use the sensors in your mobile devices to perform science experiments.
+
 - [Red-moon](https://github.com/LibreShift/red-moon)
     
     - Android screen filter app for night time phone use. 
