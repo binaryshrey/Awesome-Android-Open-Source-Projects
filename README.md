@@ -310,6 +310,12 @@
     
     - Track your sport activities with RunnerUp using the GPS in your Android phone.
     
+- [CoVid19](https://github.com/Kakyire/CoVid19)
+    
+    - Android app to show live updates of Coronavirus cases around the world.
+    
+    
+    
     
  
 ### :books: Libraries

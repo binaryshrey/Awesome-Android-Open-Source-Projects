@@ -16,7 +16,7 @@ Thanks for wanting to help out! These pointers below should help you fall into t
     - Now create a branch using the git checkout command: ``` git checkout -b <add-your-new-branch-name> ```
     
     
-- Make neccesary changes
+- Make necessarily changes
     - Open README.md and add any new android related projects.
     - Open CONTRIBUTORS.md and add your name and github link in the mentioned fashion : ```[your-github-username](your-github-url)```
 
