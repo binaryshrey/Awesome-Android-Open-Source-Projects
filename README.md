@@ -670,6 +670,10 @@
     
     - Minimal weather app for Android 
 
+- [WeatherZone](https://github.com/SoumikBhatt/WeatherZone)
+
+    - Simple Weather app for Android following MVVM architecture, and Jetpack Component like Room etc.
+
 
 
 
