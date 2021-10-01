@@ -279,6 +279,10 @@
 - [Gnucash-android](https://github.com/codinguser/gnucash-android)
     
     - GnuCash Android is a companion expense-tracker application for GnuCash (desktop) designed for Android. It allows you to record transactions on-the-go and later import the data into GnuCash for the desktop.
+
+- [Kripto](https://github.com/sauravrao637/Kripto)
+
+    - Kripto is cryptocurrency and exchanges app for Android, written in Kotlin and made using Coingecko's API.
     
     
     
