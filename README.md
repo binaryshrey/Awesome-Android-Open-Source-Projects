@@ -680,7 +680,9 @@
 
     - Simple Weather app for Android following MVVM architecture, and Jetpack Component like Room etc.
 
+- [Sunshine](https://github.com/pragyaSingh13/Sunshine)
 
+    - Weather app to get current weather info of any city around the globe using OpenWeatherMap API.
 
 
 ## :dart:  **HacktoberFest**
