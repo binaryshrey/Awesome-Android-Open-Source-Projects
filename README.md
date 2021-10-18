@@ -579,8 +579,11 @@
 - [Scarlet-Notes](https://github.com/BijoySingh/Scarlet-Notes)
     
     - Simple yet powerful rich note taking android application, with a lot of flexibilty of usage.
+  
+  
+- [Linkhub](https://github.com/amrdeveloper/linkhub)
     
-    
+    - Open source link manager with folders and widget feature and sort links depend on usage.
     
 ### :hammer_and_wrench: Tools
 - [Google Science Journal](https://github.com/google/science-journal)
