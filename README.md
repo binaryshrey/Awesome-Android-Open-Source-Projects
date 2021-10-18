@@ -411,7 +411,11 @@
     
     - ZXing ("Zebra Crossing") barcode scanning library for Java, Android 
     
+- [CodeView](https://github.com/amrdeveloper/codeview)
     
+    - Android Library to make it easy to create code editor with multi features.
+
+ 
     
 ### :art: Misc    
 - [Android-conferences](https://github.com/jitinsharma/android-conferences)
