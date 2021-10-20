@@ -685,6 +685,10 @@
     - Weather app to get current weather info of any city around the globe using OpenWeatherMap API.
 
 
+- [WeatherForecast](https://github.com/Marwa-Eltayeb/WeatherForecast)
+
+    - Weather Forecast App implemented in MVP Architecture using Kotlin that enable users to have instant access to weather data.
+
 ## :dart:  **HacktoberFest**
 <p align="center">
 <img width="720px" src="https://hacktoberfest.digitalocean.com/_nuxt/img/logo-hacktoberfest-full.f42e3b1.svg" alt="hacktoberfest"></img>
