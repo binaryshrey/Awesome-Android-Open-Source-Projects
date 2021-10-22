@@ -415,7 +415,11 @@
     
     - Android Library to make it easy to add ReactButton feature in your app with Multi Reactions.
     
+- [LottieDIalog](https://github.com/amrdeveloper/LottieDIalog)
+    
+    - Android Library to create Lottie animation view dialog easily with a lot of customization.
 
+    
 
 ### :art: Misc    
 - [Android-conferences](https://github.com/jitinsharma/android-conferences)
