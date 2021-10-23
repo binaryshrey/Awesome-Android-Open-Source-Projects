@@ -284,6 +284,9 @@
 
     - Kripto is cryptocurrency and exchanges app for Android, written in Kotlin and made using Coingecko's API.
     
+- [CurrencyExchange](https://github.com/Marwa-Eltayeb/CurrencyExchange)
+
+    - Currency Exchange App displays real-time currency rates, shows a chart for any currency pair. 
     
     
 ### :soccer: Games 
