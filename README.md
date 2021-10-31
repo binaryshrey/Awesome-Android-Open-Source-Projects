@@ -284,6 +284,9 @@
 
     - Kripto is cryptocurrency and exchanges app for Android, written in Kotlin and made using Coingecko's API.
     
+- [CurrencyExchange](https://github.com/Marwa-Eltayeb/CurrencyExchange)
+
+    - Currency Exchange App displays real-time currency rates, shows a chart for any currency pair. 
     
     
 ### :soccer: Games 
@@ -691,6 +694,10 @@
 
     - Weather app to get current weather info of any city around the globe using OpenWeatherMap API.
 
+
+- [WeatherForecast](https://github.com/Marwa-Eltayeb/WeatherForecast)
+
+    - Weather Forecast App implemented in MVP Architecture using Kotlin that enable users to have instant access to weather data.
 
 ## :dart:  **HacktoberFest**
 <p align="center">
