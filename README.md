@@ -1,5 +1,5 @@
 <h1 align="center">Awesome Android Open-Source Projects</h1><br>
-
+.
 <p align="center">
 :eyeglasses: A curated list of awesome android projects by open-source contributors.
 </p><br>
