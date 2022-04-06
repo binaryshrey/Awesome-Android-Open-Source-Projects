@@ -536,7 +536,11 @@
     
     - A Simple Demonstration of the New York Times App using Jsoup web crawler with MVVM Architecture
     
+- [Awesome NewsApp](https://github.com/Mehranalam/NewsApp)
     
+    - A Awesome news app using volley library and picasso library This app uses an open source API for its news sources.
+
+
     
 ### :rocket: Productivity     
 - [Studify](https://github.com/cmcodes1/Studify)
