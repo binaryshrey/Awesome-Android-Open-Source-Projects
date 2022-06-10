@@ -496,7 +496,10 @@
 - [Space-app](https://github.com/ValterKasper/space-app)
     
     - An Android app which shows timeline of upcoming rocket launches and showcases architecture of real application. 
-    
+ 
+- [UAMP](https://github.com/android/uamp)
+
+    - A sample audio app for Android for demostrating exoplayer
     
     
 ### :newspaper: News    
