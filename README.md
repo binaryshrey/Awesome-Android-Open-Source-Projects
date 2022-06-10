@@ -136,7 +136,10 @@
 
     - App that interacts with a Rest Api. Architecture is MVVM.
     
-    
+- [NotyKT](https://github.com/PatilShreyas/NotyKT)
+
+    - NotyKT is a complete Kotlin-stack (Backend + Android) application built to demonstrate the use of Modern development tools with best practices implementation.
+
     
 ### :iphone: Communication
 - [Irccloud-android](https://github.com/irccloud/android)
