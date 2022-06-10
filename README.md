@@ -499,7 +499,7 @@
  
 - [UAMP](https://github.com/android/uamp)
 
-    - A sample audio app for Android for demostrating exoplayer
+    - A sample audio app for Android
     
     
 ### :newspaper: News    
