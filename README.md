@@ -263,8 +263,11 @@
 - [TvFlix](https://github.com/reactivedroid/TvFlix)
     
     - TvFlix android app using Dagger Hilt, Coroutines, Jetpack(Room, ViewModel, Paging, LiveData) based on MVVM architecture purely written in Kotlin.
-    
-    
+
+- [MovieMade](https://github.com/michaelbel/Movies)
+
+    - Moviemade - easy way to discover popular movies. This is a simple TMDb client for Android with material design.
+      
     
 ### :moneybag: Finance    
 - [Bitcoin-wallet](https://github.com/bitcoin-wallet/bitcoin-wallet)
@@ -312,6 +315,11 @@
 - [CuboidalDrift](https://github.com/virejdasani/CuboidalDrift)
     
     - Cuboidal Drift is a casual, fun android game with cool looking graphics, made by Virej Dasani.
+
+- [QuizApp](https://github.com/pratyaksh1610/Quiz_App)
+ 
+   - This is a Quiz App that Users can play to enjoy thier free time and also gain some knowledge on the go 
+
 
 ### :weight_lifting: Health & Fitness
 - [Android-heart-rate-monitor](https://github.com/phishman3579/android-heart-rate-monitor)
@@ -429,6 +437,9 @@
     
     - Android Library to create Lottie animation view dialog easily with a lot of customization.
 
+- [MathView](https://github.com/derysudrajat/math-view)
+
+    - A Library for displaying math equations in Android
     
 
 ### :art: Misc    
@@ -605,10 +616,14 @@
     
     - Simple yet powerful rich note taking android application, with a lot of flexibilty of usage.
   
-  
 - [Linkhub](https://github.com/amrdeveloper/linkhub)
     
     - Open source link manager with folders and widget feature and sort links depend on usage.
+
+- [LeetDroid](https://github.com/cdhiraj40/LeetDroid)
+
+    - LeetDroid is an android client for LeetCode.
+
     
 ### :hammer_and_wrench: Tools
 - [Google Science Journal](https://github.com/google/science-journal)
