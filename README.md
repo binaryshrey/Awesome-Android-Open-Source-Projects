@@ -298,6 +298,9 @@
 
     - Currency Exchange App displays real-time currency rates, shows a chart for any currency pair. 
     
+- [bither-android](https://github.com/bither/bither-android)
+ 
+    - Bither is a simple and secure Bitcoin wallet!
     
 ### :soccer: Games 
 - [2048-android](https://github.com/uberspot/2048-android)
@@ -623,6 +626,10 @@
 - [LeetDroid](https://github.com/cdhiraj40/LeetDroid)
 
     - LeetDroid is an android client for LeetCode.
+
+- [uhabits](https://github.com/iSoron/uhabits)
+
+    - It is an mobile app that helps you create and maintain good habits, allowing you to achieve your long-term goals. Detailed graphs and statistics show you how your habits improved over time. It is completely ad-free and open source.
 
     
 ### :hammer_and_wrench: Tools
