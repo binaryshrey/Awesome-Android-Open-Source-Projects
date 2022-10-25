@@ -142,6 +142,10 @@
 
     
 ### :iphone: Communication
+ - [FairEmail](https://github.com/M66B/FairEmail/)
+  
+    - An advanced email client for Android
+
 - [Irccloud-android](https://github.com/irccloud/android)
 
     - The official Android app for IRCCloud.com
@@ -586,6 +590,10 @@
 - [Compose-ShoppingList](https://github.com/QArtur99/Compose-ShoppingList)
     
     - Jetpack compose shopping list app 
+    
+- [Etar](https://github.com/Etar-Group/Etar-Calendar/)
+    
+    - An enhanced fork of the AOSP calendar app
     
 - [Joplin](https://github.com/laurent22/joplin)
     
