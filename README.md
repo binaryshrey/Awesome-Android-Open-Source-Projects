@@ -658,6 +658,10 @@
 
     - Use the sensors in your mobile devices to perform science experiments.
 
+- [Hash Checker](https://github.com/hash-checker/hash-checker)
+
+    - Fast and simple application for generating and comparison hashes from files or text
+
 - [Red-moon](https://github.com/LibreShift/red-moon)
     
     - Android screen filter app for night time phone use. 
