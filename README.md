@@ -662,6 +662,10 @@
 
     - Fast and simple application for generating and comparison hashes from files or text
 
+- [KDEConnect](https://github.com/KDE/kdeconnect-android)
+
+    - KDE Connect is a multi-platform app that allows your devices to communicate (eg: your phone and your computer).
+
 - [Red-moon](https://github.com/LibreShift/red-moon)
     
     - Android screen filter app for night time phone use. 
