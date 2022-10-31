@@ -220,6 +220,10 @@
 - [tachiyomi](https://github.com/inorichi/tachiyomi)
 
     - Free and open source manga reader for Android 
+
+- [AbsolutReader](https://github.com/xvalme/AbsolutReader)
+
+    - AbsolutReader is the next generation e-book reader, 100% Open source, highly customizable, and featuring Chaimager.
     
     
  
