@@ -720,6 +720,10 @@
     
     - Memento Calendar is a modern namedays app for Android. This repository contains the source code of Memento Calendar.
 
+- [Moticons](https://github.com/javiersantos/Moticons)
+
+    - A simple, easy and modern app to manage and use Japanese Emoticons with Material Design
+
 - [Photo-affix](https://github.com/afollestad/photo-affix)
     
     - Stitch your photos together vertically or horizontally easily! 
