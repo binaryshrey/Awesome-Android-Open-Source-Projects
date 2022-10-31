@@ -649,6 +649,11 @@
 
     
 ### :hammer_and_wrench: Tools
+
+- [GitFox](https://gitlab.com/terrakok/gitlab-client)
+
+    - Client to manage GitLab projects. Clean Architecture implementation
+
 - [Google Science Journal](https://github.com/google/science-journal)
 
     - Use the sensors in your mobile devices to perform science experiments.
