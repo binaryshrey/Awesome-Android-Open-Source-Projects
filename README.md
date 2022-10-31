@@ -293,6 +293,10 @@
 - [Finance-Manager](https://github.com/josharsh/Finance-Manager)
     
     - Finance Manager is an Android Application which contains Income Tax Calculator and EMI Calculator. 
+
+- [Financius](https://github.com/mvarnagiris/financius)
+
+    - Financius is a simple application that helps you log and track your expenses and keep an eye on your balance.
     
 - [Gnucash-android](https://github.com/codinguser/gnucash-android)
     
