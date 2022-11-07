@@ -708,6 +708,10 @@
     
     - AuthPass - Password Manager based on Flutter for all platforms. Keepass 2.x (kdbx 3.x) compatible. 
 
+- [Bitwarden](https://github.com/bitwarden/mobile)
+    
+    - Password management solution for individuals, teams, and business organizations written in C# with Xamarin Android, Xamarin iOS, and Xamarin Forms. 
+
 - [Earthview-android](https://github.com/PDDStudio/earthview-android)
     
     - A library to include 'EarthView with Google' into your application with ease. 
