@@ -646,6 +646,10 @@
 - [uhabits](https://github.com/iSoron/uhabits)
 
     - It is an mobile app that helps you create and maintain good habits, allowing you to achieve your long-term goals. Detailed graphs and statistics show you how your habits improved over time. It is completely ad-free and open source.
+    
+- [StackOverflow - Community Version](https://github.com/mayorJAY/StackOverflow-Community-Version)
+
+    - This is an Android StackOverflow client application implemented using the MVVM architecture, Retrofit, LiveData, Flow, ViewModel, Repository pattern, View Binding. Users can get to view Questions which have been asked on Stack Overflow; picking a particular Question makes the user view it in detail as well as the Answers provided. Users can also search for a particular problem they are having by typing in a search query or by capturing an image and performing an OCR on it.
 
     
 ### :hammer_and_wrench: Tools
@@ -696,6 +700,10 @@
 - [Travel-Mate](https://github.com/Swati4star/Travel-Mate)
     
     - Travel Mate is an android app for travellers. It provides features like choosing the correct destination, making bookings, and organizing the trip. It provides solutions for every problem a traveller might face during their journey. It provides a comprehensive list of information about a destination: current weather, best places to hangout, and city's current trends. 
+    
+- [HolidayInfo](https://github.com/mayorJAY/HolidayInfo)
+    
+    - HolidayInfo is a multi-module, offline-first Android Application that fetches and displays the various holidays observed in different Countries and different years. The App fetches the data from Nager.Date API and uses Room for offline caching. It is implemented using Multi-module, Clean Architecture, Model-View-ViewModel (MVVM) pattern and uses Modern Android Development pattern and libraries.
     
     
     
