@@ -8,3 +8,4 @@ Here's a list of open-source contributors who have compiled the resources:
 - [Dilmohit](https://github.com/Dilmohit)
 - [ardiansyahp8](https://github.com/ardiansyahp8)
 - [asentris](https://github.com/asentris)
+- [MayorJay](https://github.com/mayorJAY)
