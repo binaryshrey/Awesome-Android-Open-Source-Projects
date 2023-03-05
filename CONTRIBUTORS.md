@@ -9,3 +9,4 @@ Here's a list of open-source contributors who have compiled the resources:
 - [ardiansyahp8](https://github.com/ardiansyahp8)
 - [asentris](https://github.com/asentris)
 - [MayorJay](https://github.com/mayorJAY)
+- [LeoColman](https://github.com/LeoColman)
