@@ -650,6 +650,10 @@
 - [StackOverflow - Community Version](https://github.com/mayorJAY/StackOverflow-Community-Version)
 
     - This is an Android StackOverflow client application implemented using the MVVM architecture, Retrofit, LiveData, Flow, ViewModel, Repository pattern, View Binding. Users can get to view Questions which have been asked on Stack Overflow; picking a particular Question makes the user view it in detail as well as the Answers provided. Users can also search for a particular problem they are having by typing in a search query or by capturing an image and performing an OCR on it.
+  
+- [Work Tracker](https://github.com/parmstrong842/WorkTracker)
+
+  - Worktracker is a comprehensive and user-friendly app designed to help you keep a record of your work hours. With its intuitive interface, you can effortlessly log in and out of your shift, no matter where you are. Whether you're clocking in at the office or logging your hours from home, the app has got you covered.
 
     
 ### :hammer_and_wrench: Tools
