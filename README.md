@@ -344,6 +344,10 @@
 - [Pedometer](https://github.com/j4velin/Pedometer)
     
     - Lightweight pedometer app for Android using the hardware step sensor 
+
+- [Petals](https://github.com/LeoColman/Petals)
+
+    - The Open Source app Petals aims to help its users to either quit weed, reduce usage or simply know how much they're using. 
     
 - [Runnerup](https://github.com/jonasoreland/runnerup)
     
