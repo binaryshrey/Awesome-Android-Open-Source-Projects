@@ -352,7 +352,10 @@
 - [Runnerup](https://github.com/jonasoreland/runnerup)
     
     - Track your sport activities with RunnerUp using the GPS in your Android phone.
-    
+
+- [Water-Intake-Tracker](https://github.com/JacobKerames/water-intake-tracker)
+
+    - Determine and track daily hydration goals based on body weight, and export data.
     
  
 ### :books: Libraries
