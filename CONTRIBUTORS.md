@@ -11,3 +11,4 @@ Here's a list of open-source contributors who have compiled the resources:
 - [MayorJay](https://github.com/mayorJAY)
 - [LeoColman](https://github.com/LeoColman)
 - [JacobKerames](https://github.com/JacobKerames)
+- [swapnil-musale](https://github.com/swapnil-musale)
