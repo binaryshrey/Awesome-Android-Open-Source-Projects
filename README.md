@@ -140,6 +140,9 @@
 
     - NotyKT is a complete Kotlin-stack (Backend + Android) application built to demonstrate the use of Modern development tools with best practices implementation.
 
+- [JetJoke](https://github.com/swapnil-musale/JetJoke)
+
+    - JetJoke is a Joke generator app build using Jetpack Compose & Clean + MVVM Architecture to demonstrate it's use with other modern Android Development libraries and tools.
     
 ### :iphone: Communication
  - [FairEmail](https://github.com/M66B/FairEmail/)
