@@ -772,6 +772,10 @@
     
 - [ImageSearching](https://github.com/MinhyeokOh/android_app_ui)    
     - Quickly find photos stored in the Android gallery using tags, date taken, and location, select one photo to write a diary, and select keyword from the diary to create additional tags
+
+- [Pdfview-Android](https://github.com/Dmitry-Borodin/pdfview-android)
+    
+    - Small Android library to show PDF files
     
 ### :partly_sunny: Weather
 - [CoolWeather](https://github.com/akoufa/CoolWeather)
