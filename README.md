@@ -342,6 +342,10 @@
  
    - This is a Quiz App that Users can play to enjoy thier free time and also gain some knowledge on the go 
 
+- [Freeciv](https://github.com/freeciv/freeciv)
+
+    - Freeciv is a Free and Open Source empire-building strategy game inspired by the history of human civilization.
+
 
 ### :weight_lifting: Health & Fitness
 - [Android-heart-rate-monitor](https://github.com/phishman3579/android-heart-rate-monitor)
