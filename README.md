@@ -67,6 +67,10 @@
 - [Vineyard](https://github.com/hitherejoe/Vineyard)
 
     - Vineyard is an unofficial Vine client for Android TV.
+
+- [Kodi TV](https://github.com/xbmc/xbmc)
+
+    - Kodi is an award-winning free and open source home theater/media center software and entertainment hub for digital media. With its beautiful interface and powerful skinning engine, it's available for Android, BSD, Linux, macOS, iOS, tvOS and Windows.
     
     
     
@@ -337,6 +341,10 @@
 - [QuizApp](https://github.com/pratyaksh1610/Quiz_App)
  
    - This is a Quiz App that Users can play to enjoy thier free time and also gain some knowledge on the go 
+
+- [Freeciv](https://github.com/freeciv/freeciv)
+
+    - Freeciv is a Free and Open Source empire-building strategy game inspired by the history of human civilization.
 
 
 ### :weight_lifting: Health & Fitness
