@@ -367,6 +367,10 @@
 - [Water-Intake-Tracker](https://github.com/JacobKerames/water-intake-tracker)
 
     - Determine and track daily hydration goals based on body weight, and export data.
+
+- [7minWorkout](https://github.com/sharshv2012/7minWorkout)
+
+    - An workout app which tracks my workouts, has BMI calculator for different metrics and audio assistance.
     
  
 ### :books: Libraries
