@@ -826,3 +826,7 @@ You can also check the [swag-list](https://hacktoberfestswaglist.com/) and other
 ## :memo:  **Contributing**
 
 See [CONTRIBUTING.md](https://github.com/binaryshrey/Awesome-Android-Open-Source-Projects/blob/master/CONTRIBUTING.md)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=LakshmanRoy&theme=onedark&no-frame=false&no-bg=true&margin-w=4)
+
