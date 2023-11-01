@@ -196,7 +196,7 @@
 - [Tindroid](https://github.com/tinode/tindroid)
 
     - Android instant messenger using Tinode backend. Beta-quality software. Debug APKs are available in releases.
-    
+
 - [Tutanota](https://github.com/tutao/tutanota)
 
     - Tutanota is an email client with a strong focus on security and privacy that lets you encrypt emails on all your devices. 
@@ -209,8 +209,7 @@
 
     - The is in official Dev.to Android App. Dev.to is a community for Developers to engage with other Developers. 
     
-    
-    
+
 ### :book: eBook Reader
 - [Bookdash-android-app](https://github.com/bookdash/bookdash-android-app)
 
@@ -555,6 +554,10 @@
 - [UAMP](https://github.com/android/uamp)
 
     - A sample audio app for Android
+
+- [muzifind-android](https://github.com/mssandeepkamath/muzifind-android.git)
+     
+    - MuziFind captures and analyzes internal audio from various applications, such as Instagram reels and YouTube shorts. It effectively identifies the audio being played and offers convenient links to Spotify, YouTube, and the web for further exploration.
     
     
 ### :newspaper: News    
@@ -676,6 +679,12 @@
 - [Work Tracker](https://github.com/parmstrong842/WorkTracker)
 
   - Worktracker is a comprehensive and user-friendly app designed to help you keep a record of your work hours. With its intuitive interface, you can effortlessly log in and out of your shift, no matter where you are. Whether you're clocking in at the office or logging your hours from home, the app has got you covered.
+
+
+- [studybear-android](https://github.com/mssandeepkamath/studybear-android.git)
+     
+    - Studybear is an academic productivity platform aimed at making the journey of IT engineering students easier. It provides a centralized hub for accessing and sharing notes, question papers, lab programs, and other study-related resources. Additionally, it keeps students informed about the latest technology news, coding events, and provides a fun space for engaging with memes and peers.
+
 
     
 ### :hammer_and_wrench: Tools
