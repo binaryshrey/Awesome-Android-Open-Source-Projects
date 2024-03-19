@@ -744,7 +744,11 @@
 
 - [Bitwarden](https://github.com/bitwarden/mobile)
     
-    - Password management solution for individuals, teams, and business organizations written in C# with Xamarin Android, Xamarin iOS, and Xamarin Forms. 
+    - Password management solution for individuals, teams, and business organizations written in C# with Xamarin Android, Xamarin iOS, and Xamarin Forms.
+
+- [DeviceAnalyzer](https://github.com/MrMonsterX/DeviceAnalyzer)
+    
+    - Device Analyzer is a powerful Android app that provides detailed insights into hardware specifications. 
 
 - [Earthview-android](https://github.com/PDDStudio/earthview-android)
     
