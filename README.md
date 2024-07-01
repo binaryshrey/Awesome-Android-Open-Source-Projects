@@ -43,6 +43,7 @@
 - :earth_africa: [Travel](#earth_africa-travel)
 - :gear: [Utilities](#gear-utilities)
 - :partly_sunny: [Weather](#partly_sunny-weather)
+- :education: [Education](#education-education)
 
 :dart:  [**HacktoberFest**](#dart--hacktoberfest)
 
@@ -814,6 +815,11 @@
 - [WeatherForecast](https://github.com/Marwa-Eltayeb/WeatherForecast)
 
     - Weather Forecast App implemented in MVP Architecture using Kotlin that enable users to have instant access to weather data.
+
+### :education: Education
+- [Quiz-Platform](https://github.com/Yugyd/quiz-platform)
+
+  - Quiz Platform is a Open Source knowledge testing platform for Android based on Jetpack Compose and Google solutions.
 
 ## :dart:  **HacktoberFest**
 <p align="center">
