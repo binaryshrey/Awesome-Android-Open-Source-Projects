@@ -208,6 +208,10 @@
 - [forem-Dev](https://github.com/forem/DEV-Android)
 
     - The is in official Dev.to Android App. Dev.to is a community for Developers to engage with other Developers. 
+
+- [Pal App](https://github.com/prakharbhatnagar20/Chat-App)
+
+    - Pal App is a social media platform designed to help users discover and connect with people nearby. The platform enables users to chat and arrange meetups in a safe and easy way.
     
     
     
