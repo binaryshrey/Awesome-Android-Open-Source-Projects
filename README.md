@@ -664,6 +664,10 @@
 - [LeetDroid](https://github.com/cdhiraj40/LeetDroid)
 
     - LeetDroid is an android client for LeetCode.
+    - 
+- [HabitBuilder](https://github.com/ofalvai/HabitBuilder)
+  
+    - A simple and clean app with the right tools to keep track of habits and understand progress.
 
 - [uhabits](https://github.com/iSoron/uhabits)
 
