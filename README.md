@@ -242,7 +242,11 @@
 - [Jetcaster](https://github.com/android/compose-samples/tree/master/Jetcaster)
     
     - Jetcaster is a sample podcast app, built with Jetpack Compose. The goal of the sample is to showcase dynamic theming and full featured architecture.
-    
+
+- [MovieFinder](https://github.com/MaddyRizvi/movie-app)
+
+    - The Movie App is an Android application built using Java and follows the MVVM architecture. It fetches movie data from The Movie Database (TMDb) API and displays a list of movies on the screen in a user-friendly interface.
+  
 - [MovieGuide](https://github.com/esoxjem/MovieGuide)
     
     - Movie discovery app showcasing MVP, RxJava, Dagger 2 and Clean Architecture 
