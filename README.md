@@ -750,6 +750,10 @@
     
     - Password management solution for individuals, teams, and business organizations written in C# with Xamarin Android, Xamarin iOS, and Xamarin Forms. 
 
+- [KeyPass](https://github.com/yogeshpaliyal/KeyPass)
+    
+    - Offline Password manager for android, build in compose and material you, support backup encrypted database, etc.
+
 - [Earthview-android](https://github.com/PDDStudio/earthview-android)
     
     - A library to include 'EarthView with Google' into your application with ease. 
