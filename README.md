@@ -555,6 +555,10 @@
 - [UAMP](https://github.com/android/uamp)
 
     - A sample audio app for Android
+      
+- [Zap.Store](https://github.com/zapstore)
+
+    - A permissionless app store that allows users to verify apps, devs to sign their own apps, and users to discover new & exciting apps via their social graph! Zap Store makes it easy for enthusiasts & users to reward their app's dev via micropayments, and enables the dev to build a commuity around their app. 
     
     
 ### :newspaper: News    
