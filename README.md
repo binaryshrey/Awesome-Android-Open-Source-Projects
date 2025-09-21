@@ -371,7 +371,10 @@
 - [7minWorkout](https://github.com/sharshv2012/7minWorkout)
 
     - An workout app which tracks my workouts, has BMI calculator for different metrics and audio assistance.
-    
+
+- [FitLite](https://github.com/jay-sharmaa/FitLite)
+
+    - A Home Fitness app which uses pose detection to detect the exercise performed and give voice automated voice feedback.
  
 ### :books: Libraries
 - [Accompanist](https://github.com/chrisbanes/accompanist)
