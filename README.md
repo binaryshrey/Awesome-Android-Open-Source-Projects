@@ -173,7 +173,7 @@
 
     - Native Android port of the KDE Connect Qt app 
     
-- [Proton-mail-android](https://github.com/ProtonMail/proton-mail-android)
+- [Proton Mail for Android](https://github.com/ProtonMail/android-mail)
 
     - ProtonMail Android app 
     
