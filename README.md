@@ -604,6 +604,10 @@
 - [Awesome NewsApp](https://github.com/Mehranalam/NewsApp)
     
     - A Awesome news app using volley library and picasso library This app uses an open source API for its news sources.
+	
+- [World News](https://github.com/marwa-eltayeb/WorldNews)	
+  
+    - A News app made by using the Guardian API including storing the data using SQLite Database.
 
 
     
