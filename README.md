@@ -231,8 +231,10 @@
 - [AbsolutReader](https://github.com/xvalme/AbsolutReader)
 
     - AbsolutReader is the next generation e-book reader, 100% Open source, highly customizable, and featuring Chaimager.
-    
-    
+      
+- [IReader](https://github.com/IReaderorg/IReader)
+
+    - IReader is a next-generation e-book reader, 100% open source, highly customizable, and designed for smooth reading and library management.  
  
 ### :movie_camera: Entertainment
 - [AntennaPod](https://github.com/AntennaPod/AntennaPod)
