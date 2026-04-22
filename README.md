@@ -380,9 +380,13 @@
  
 ### :books: Libraries
 - [Accompanist](https://github.com/chrisbanes/accompanist)
-    
-    - Accompanist is a group of libraries that contains some utilities which I've found myself copying around projects which use Jetpack Compose. 
-    
+
+    - Accompanist is a group of libraries that contains some utilities which I've found myself copying around projects which use Jetpack Compose.
+
+- [Axiom AI](https://github.com/av-feaster/axiom)
+
+    - On-device AI runtime for Android that runs ChatGPT-like features fully offline. Powered by llama.cpp with Kotlin-first clean API, local LLM inference, streaming text generation, and built-in model download manager.
+
 - [AndroidCharts](https://github.com/HackPlan/AndroidCharts)
     
     - An easy-to-use Android charts library with animation. 
