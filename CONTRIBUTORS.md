@@ -7,6 +7,7 @@ Here's a list of open-source contributors who have compiled the resources:
 - [Varsha-Kulkarni](https://github.com/Varsha-Kulkarni)
 - [Dilmohit](https://github.com/Dilmohit)
 - [ardiansyahp8](https://github.com/ardiansyahp8)
+- [av-feaster](https://github.com/av-feaster)
 - [asentris](https://github.com/asentris)
 - [MayorJay](https://github.com/mayorJAY)
 - [LeoColman](https://github.com/LeoColman)
