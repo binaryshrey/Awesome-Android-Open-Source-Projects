@@ -810,6 +810,10 @@
     
     - Small Android library to show PDF files
     
+- [PocketSage](https://github.com/umarpazir11/pocketsage)
+    
+    - A fully offline, on-device RAG assistant built with LiteRT-LM, Jetpack Compose, and Room.
+
 ### :partly_sunny: Weather
 - [CoolWeather](https://github.com/akoufa/CoolWeather)
     
