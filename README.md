@@ -697,6 +697,10 @@
     
 ### :hammer_and_wrench: Tools
 
+- [Codecks](https://github.com/vaddisrinivas/codecks)
+
+    - Local-first Android command deck, Bluetooth trackpad, and reviewable Mac automation surface.
+
 - [GitFox](https://gitlab.com/terrakok/gitlab-client)
 
     - Client to manage GitLab projects. Clean Architecture implementation
