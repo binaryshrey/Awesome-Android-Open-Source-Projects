@@ -370,6 +370,10 @@
 
     - Determine and track daily hydration goals based on body weight, and export data.
 
+- [WonderFood](https://github.com/vaddisrinivas/wonderfood)
+
+    - Local-first Android food workspace for inventory, recipes, meal planning, receipts, shopping, and reviewable AI proposals.
+
 - [7minWorkout](https://github.com/sharshv2012/7minWorkout)
 
     - An workout app which tracks my workouts, has BMI calculator for different metrics and audio assistance.
