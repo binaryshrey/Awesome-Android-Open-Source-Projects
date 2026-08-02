@@ -610,6 +610,10 @@
 
     
 ### :rocket: Productivity     
+- [AI Dictation](https://github.com/writingmate/aidictation)
+
+    - Open-source speech-to-text app with a Kotlin Android client, offline recognition on supported devices, and optional cloud transcription and cleanup.
+
 - [OSSAVE](https://github.com/mukuldeep/OSSAVE)
 
     - Open Source Simple Android Video Editor
