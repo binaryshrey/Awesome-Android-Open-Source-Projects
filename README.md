@@ -701,6 +701,10 @@
 
     - Client to manage GitLab projects. Clean Architecture implementation
 
+- [Git Store](https://github.com/Darkmintis/Git-Store)
+
+    - An Android-first open-source app store for discovering and installing APKs published through GitHub Releases.
+
 - [Google Science Journal](https://github.com/google/science-journal)
 
     - Use the sensors in your mobile devices to perform science experiments.
