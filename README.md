@@ -79,6 +79,10 @@
 
     - This is a watch face for Android Wear based on the typeface used for the FORM design conference. 
     
+- [Herold](https://github.com/chackrahunter/herold)
+
+    - Run a Samsung Galaxy Watch with an iPhone and without a Google account: ANCS notifications, health sensor readouts, an account-free app store and a custom watch face, all built without Gradle.
+    
 - [Smartalarm](https://github.com/fridgecow/smartalarm)
 
     - Smart Alarm is a privacy-focused sleep tracker with powerful features and works without an internet or phone connection.
