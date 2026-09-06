@@ -695,6 +695,11 @@
   - Worktracker is a comprehensive and user-friendly app designed to help you keep a record of your work hours. With its intuitive interface, you can effortlessly log in and out of your shift, no matter where you are. Whether you're clocking in at the office or logging your hours from home, the app has got you covered.
 
     
+
+- [WhisperType](https://github.com/whispertypeapp/WhisperType-Android)
+
+    - Free OSS Android dictation — keep your keyboard; Gemini Live via your AI Studio key; no WhisperType servers.
+
 ### :hammer_and_wrench: Tools
 
 - [GitFox](https://gitlab.com/terrakok/gitlab-client)
