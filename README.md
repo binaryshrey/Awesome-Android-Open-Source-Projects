@@ -773,7 +773,11 @@
 
 - [Images-to-PDF](https://github.com/Swati4star/Images-to-PDF)
     
-    - An app to convert images to PDF file! 
+    - An app to convert images to PDF file!
+ 
+- [RME: PDF & Document Scanner](https://github.com/lucianRME/rme-pdf-scanner)
+
+    - Privacy-first open-source Android document scanner with offline OCR, searchable PDFs, PDF import, and local processing. No ads, tracking, account, or backend.
     
 - [Memento-Calendar](https://github.com/alexstyl/Memento-Calendar)
     
