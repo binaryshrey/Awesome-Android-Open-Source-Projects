@@ -787,6 +787,10 @@
     
     - Stitch your photos together vertically or horizontally easily! 
 
+- [Ravenpass](https://github.com/dortanes/ravenpass)
+
+    - A password manager for Android and macOS with local encrypted vaults, passkeys, TOTP codes, and system autofill. Public beta, built with Wails, Go, React, and TypeScript.
+
 - [Simple-Calendar](https://github.com/SimpleMobileTools/Simple-Calendar)
     
     - A simple calendar with events, customizable widgets and no ads. 
