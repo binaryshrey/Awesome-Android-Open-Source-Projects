@@ -728,6 +728,10 @@
 - [Wally](https://github.com/Musenkishi/wally)
     
     - Wally is a fast and efficient wallpaper application for Android 
+
+- [OneBox](https://github.com/wangzhishou/OneBox)
+
+    - A free AI agent & toolbox for Android: say what you need and the built-in agent drives 90+ in-app tools to get it done — plus image & document tools, productivity and daily utilities. Written in Kotlin with Jetpack Compose, Hilt and Decompose. Apache-2.0.
     
    
    
