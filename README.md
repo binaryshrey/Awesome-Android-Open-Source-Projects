@@ -149,6 +149,10 @@
     - JetJoke is a Joke generator app build using Jetpack Compose & Clean + MVVM Architecture to demonstrate it's use with other modern Android Development libraries and tools.
     
 ### :iphone: Communication
+- [Aster Mail](https://github.com/Aster-Privacy/Aster-Android)
+
+    - Private, end-to-end encrypted email with post-quantum protection, PGP, aliases, and custom domains.
+
  - [FairEmail](https://github.com/M66B/FairEmail/)
   
     - An advanced email client for Android
