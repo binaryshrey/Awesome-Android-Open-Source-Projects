@@ -235,6 +235,10 @@
 - [IReader](https://github.com/IReaderorg/IReader)
 
     - IReader is a next-generation e-book reader, 100% open source, highly customizable, and designed for smooth reading and library management.  
+
+- [Easemic](https://github.com/dirtyfancy/easemic)
+
+    - Native Android comic and manga reader built with Kotlin and Jetpack Compose, supporting local CBZ/ZIP archives, self-hosted OPDS catalogs, and encrypted cloud storage streaming and backup.
  
 ### :movie_camera: Entertainment
 - [AntennaPod](https://github.com/AntennaPod/AntennaPod)
