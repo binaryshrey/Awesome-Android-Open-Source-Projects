@@ -284,6 +284,10 @@
 - [MovieMade](https://github.com/michaelbel/Movies)
 
     - Moviemade - easy way to discover popular movies. This is a simple TMDb client for Android with material design.
+
+- [Waifu Deck](https://github.com/fancydirty/waifu-deck)
+
+    - Waifu Deck is a free, open-source (AGPL-3.0) Android anime art collection app that unifies ten image boards into one deduplicated swipe deck, saves full-resolution originals locally, and syncs to your own encrypted cloud storage.
       
     
 ### :moneybag: Finance    
