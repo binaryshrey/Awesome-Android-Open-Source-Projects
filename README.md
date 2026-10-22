@@ -173,6 +173,10 @@
 
     - Native Android port of the KDE Connect Qt app 
     
+- [MeshLive](https://github.com/MeshLive/meshlive-android)
+
+    - Open-source Android beta for offline voice/video calls and relayed livestreams over Bluetooth; no internet or server required.
+
 - [Proton Mail for Android](https://github.com/ProtonMail/android-mail)
 
     - ProtonMail Android app 
