@@ -64,6 +64,10 @@
 
     - This repository consists of multiple samples showing best practices in app development on Android TV. 
     
+- [TV Box Tools](https://github.com/smartago/tvboxtools)
+
+    - Launcher manager and ADB toolbox for Android TV, Google TV, and Fire TV boxes: set any launcher as the persistent default HOME app over ADB without root or background services ([Website](https://tvboxtools.com) | [Google Play](https://play.google.com/store/apps/details?id=com.tv.launcher.manager.adb.tvboxtools)).
+
 - [Vineyard](https://github.com/hitherejoe/Vineyard)
 
     - Vineyard is an unofficial Vine client for Android TV.
