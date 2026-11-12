@@ -751,6 +751,10 @@
     
     
 ### :gear: Utilities
+- [Adaptive Theme](https://github.com/xLexip/Adaptive-Theme)
+
+    - Automatically switches Android's system light/dark theme based on the ambient light sensor, with optional matching wallpapers. Built with Kotlin, Jetpack Compose, and Material You. Supports a one-time permission grant via ADB, WebADB, Shizuku, or root on Android 14+.
+
 - [AnotherMonitor](https://github.com/AntonioRedondo/AnotherMonitor)
     
     - Monitors and records the CPU and memory usage of Android devices
