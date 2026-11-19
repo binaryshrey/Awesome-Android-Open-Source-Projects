@@ -791,6 +791,10 @@
     
     - A simple calendar with events, customizable widgets and no ads. 
 
+- [SoundVisualizer](https://github.com/SOVIS-TEAM/SoundVisualizer-Android)
+    
+    - Accessibility app for deaf and hard-of-hearing people that shows the sound a phone is playing as a glow along the screen edges: its direction, loudness and type (Kotlin, Jetpack Compose, ONNX Runtime).
+
 - [Talalarmo](https://github.com/trikita/talalarmo)
     
     - Minimal, simple and beautiful alarm clock thoughtfully designed by nap enthusiasts. 
